@@ -16,7 +16,7 @@
 * Wheat
 * Wheat Seed
 * Myzelium
-* Myzelium Seed
+* Myzelium Seed (how found this seeds/no one recepts or this or down)
 * Apple
 * Apple Seed
 * Banana
